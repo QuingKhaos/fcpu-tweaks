@@ -8,6 +8,7 @@
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.0",
-    "fcpu >= 0.4.31"
+    "fcpu >= 0.4.31",
+    "? SchallCircuitGroup >= 2.0.0"
   ]
 }
